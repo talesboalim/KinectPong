@@ -1,0 +1,37 @@
+E:\Programacao\Jogos\KinPong\KinPong\KinPong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacao\Jogos\KinPong\KinPong\KinPong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programacao\Jogos\KinPong\KinPong\KinPong\bin\x86\Debug\KinPong.exe
+E:\Programacao\Jogos\KinPong\KinPong\KinPong\bin\x86\Debug\KinPong.pdb
+E:\Programacao\Jogos\KinPong\KinPong\KinPong\bin\x86\Debug\OpenNI.net.dll
+E:\Programacao\Jogos\KinPong\KinPong\KinPong\obj\x86\Debug\KinPong.exe
+E:\Programacao\Jogos\KinPong\KinPong\KinPong\obj\x86\Debug\KinPong.pdb
+E:\Programacao\Jogos\KinPong\KinPong\KinPong\bin\x86\Debug\Content\barra.xnb
+E:\Programacao\Jogos\KinPong\KinPong\KinPong\bin\x86\Debug\Content\gameFont.xnb
+E:\Programacao\Jogos\KinPong\KinPong\KinPong\bin\x86\Debug\Nui.Vision.dll
+E:\Programacao\Jogos\KinPong\KinPong\KinPong\bin\x86\Debug\Content\MenuStick.xnb
+F:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\bin\x86\Debug\Content\barra.xnb
+F:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\bin\x86\Debug\Content\MenuStick.xnb
+F:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\bin\x86\Debug\Content\gameFont.xnb
+F:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\bin\x86\Debug\KinPong.exe
+F:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\bin\x86\Debug\KinPong.pdb
+F:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\bin\x86\Debug\Nui.Vision.dll
+F:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\bin\x86\Debug\OpenNI.net.dll
+F:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\obj\x86\Debug\KinPong.csprojResolveAssemblyReference.cache
+F:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\obj\x86\Debug\KinPong.exe
+F:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\obj\x86\Debug\KinPong.pdb
+E:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\obj\x86\Debug\KinPong.csprojResolveAssemblyReference.cache
+E:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\obj\x86\Debug\KinPong.exe
+E:\Programação\Kinect\Fontes\KinPong\KinPong\KinPong\obj\x86\Debug\KinPong.pdb
+F:\Programação\Kinect\Fontes\KinPong - Teclado\KinPong\KinPong\bin\x86\Debug\Content\barra.xnb
+F:\Programação\Kinect\Fontes\KinPong - Teclado\KinPong\KinPong\bin\x86\Debug\Content\MenuStick.xnb
+F:\Programação\Kinect\Fontes\KinPong - Teclado\KinPong\KinPong\bin\x86\Debug\Content\gameFont.xnb
+F:\Programação\Kinect\Fontes\KinPong - Teclado\KinPong\KinPong\bin\x86\Debug\KinPong.exe
+F:\Programação\Kinect\Fontes\KinPong - Teclado\KinPong\KinPong\bin\x86\Debug\KinPong.pdb
+F:\Programação\Kinect\Fontes\KinPong - Teclado\KinPong\KinPong\bin\x86\Debug\Nui.Vision.dll
+F:\Programação\Kinect\Fontes\KinPong - Teclado\KinPong\KinPong\bin\x86\Debug\OpenNI.net.dll
+F:\Programação\Kinect\Fontes\KinPong - Teclado\KinPong\KinPong\obj\x86\Debug\KinPong.csprojResolveAssemblyReference.cache
+F:\Programação\Kinect\Fontes\KinPong - Teclado\KinPong\KinPong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programação\Kinect\Fontes\KinPong - Teclado\KinPong\KinPong\obj\x86\Debug\KinPong.exe
+F:\Programação\Kinect\Fontes\KinPong - Teclado\KinPong\KinPong\obj\x86\Debug\KinPong.pdb

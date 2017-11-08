@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinPong", "KinPong\KinPong\KinPong.csproj", "{744B30FF-5381-4AF5-B7D3-D0897212C5FE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "KinPongContent", "KinPong\KinPongContent\KinPongContent.contentproj", "{8B3F0E9D-3B65-41CC-B270-D3318540E45E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744B30FF-5381-4AF5-B7D3-D0897212C5FE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{744B30FF-5381-4AF5-B7D3-D0897212C5FE}.Debug|x86.ActiveCfg = Debug|x86
+		{744B30FF-5381-4AF5-B7D3-D0897212C5FE}.Debug|x86.Build.0 = Debug|x86
+		{744B30FF-5381-4AF5-B7D3-D0897212C5FE}.Release|Any CPU.ActiveCfg = Release|x86
+		{744B30FF-5381-4AF5-B7D3-D0897212C5FE}.Release|x86.ActiveCfg = Release|x86
+		{744B30FF-5381-4AF5-B7D3-D0897212C5FE}.Release|x86.Build.0 = Release|x86
+		{8B3F0E9D-3B65-41CC-B270-D3318540E45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3F0E9D-3B65-41CC-B270-D3318540E45E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8B3F0E9D-3B65-41CC-B270-D3318540E45E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3F0E9D-3B65-41CC-B270-D3318540E45E}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

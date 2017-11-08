@@ -1,0 +1,3 @@
+Content\barra.xnb
+Content\gameFont.xnb
+Content\MenuStick.xnb

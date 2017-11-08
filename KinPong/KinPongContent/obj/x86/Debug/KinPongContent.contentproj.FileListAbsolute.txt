@@ -1,0 +1,4 @@
+E:\Programacao\Jogos\KinPong\KinPong\KinPongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programação\Kinect\Fontes\KinPong\KinPong\KinPongContent\obj\x86\Debug\KinPongContent.contentprojResolveAssemblyReference.cache
+E:\Programação\Kinect\Fontes\KinPong\KinPong\KinPongContent\obj\x86\Debug\KinPongContent.contentprojResolveAssemblyReference.cache
+F:\Programação\Kinect\Fontes\KinPong - Teclado\KinPong\KinPongContent\obj\x86\Debug\KinPongContent.contentprojResolveAssemblyReference.cache
